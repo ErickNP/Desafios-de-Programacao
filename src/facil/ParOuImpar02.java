@@ -2,7 +2,7 @@ package facil;
 
 import java.util.Scanner;
 
-public class ParOuImpar {
+public class ParOuImpar02 {
 
 	public static void main(String[] args) {
 
