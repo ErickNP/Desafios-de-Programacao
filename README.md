@@ -23,12 +23,14 @@ Cada pacote conterá exclusivamente os desafios pertencentes ao seu nível.
 
 Cada desafio receberá um identificador único no seguinte formato:
 
-- **fliper01**: onde o prefixo identifica o nome do desafio e o número indica a ordem do desafio dentro daquele nível.
+- **Fliper01**: onde o prefixo identifica o nome do desafio e o número indica a ordem do desafio dentro daquele nível.
 
 Por exemplo:
 
-- Se houver três desafios no pacote **Fácil**, eles serão numerados como **fliper01**, divisao**02** e lampada**03**.
-- No pacote **Médio**, se houver dois desafios, eles serão numerados como m**atryoshka01** e **times02**.
+- Se houver três desafios no pacote **facil**, eles serão numerados como **Fliper01**, Divisao**02** e Lampada**03**.
+- No pacote **medio**, se houver dois desafios, eles serão numerados como **Matryoshka01** e **Times02**.
+
+**Os commits serão realizados com base na numeração de cada pacote, e não refletirão a quantidade total de exercícios concluídos.**
 
 ### Descrições dos Desafios
 
