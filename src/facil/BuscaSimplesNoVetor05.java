@@ -25,7 +25,6 @@ public class BuscaSimplesNoVetor05 {
 			}
 		}
 		
-		
 		if(found){
 			System.out.println("SIM");
 		} else if (!found) {
